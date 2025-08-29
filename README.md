@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction using Machine Learning
 
 This project uses machine learning algorithms to predict the likelihood of heart disease based on patient health data.  
@@ -27,3 +28,6 @@ It contains patient health parameters like age, sex, cholesterol, blood pressure
 4. **Model Evaluation** – Compare metrics and choose the best model  
 5. **Prediction** – Use trained model to predict on new patient data  
 
+=======
+# Disease-Prediction-Toolkit
+>>>>>>> 27f6c2479e0ad5c90d68d6dd80e67e049c04a6f2
